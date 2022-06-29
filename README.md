@@ -1,6 +1,11 @@
 # KambanBoard-
 Simulator Kamban Board 
 
+## Deploy 
+
+![Kanban](https://user-images.githubusercontent.com/54041918/176563015-9ef25bf8-11c8-48fc-802b-8a3a6372286c.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/CristianoFIlho/KambanBoard-.git).
